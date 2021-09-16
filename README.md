@@ -1,1 +1,3 @@
-# MERGE
+# GIT MERGE
+
+```Do something```
