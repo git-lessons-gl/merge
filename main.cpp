@@ -12,6 +12,7 @@ int main()
         std::cin >> b;
 
         std::cout << a << " + " << b << " = " << a + b << std::endl;
+        std::cout << "Task4 with git rebase" << std::endl;
 
         return 0;
 }
