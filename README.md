@@ -1,1 +1,3 @@
-# MERGE
+# GIT MERGE
+
+```git merge feature```
